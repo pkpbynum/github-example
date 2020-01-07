@@ -1,8 +1,6 @@
 # Jabberwocky
 
-Jovi is the very coolest!!!
-Mfdkasljfdfkahsdfadkjf dhsfsjk alfdaf sadjklfh so cool!! 
-VEry !!! Cool !! Jovi!!!
+I learned this poem in 3rd grade, thank you Mrs. Thompson.
 
 ’Twas brillig, and the slithy toves 
       Did gyre and gimble in the wabe: 
@@ -25,7 +23,7 @@ Came whiffling through the tulgey wood,
       And burbled as it came! 
 
 One, two! One, two! And through and through 
-      The vorpal blade went snicker-snack! 
+      The vorpal blade went s`nicker-snack! 
 He left it dead, and with its head 
       He went galumphing back. 
 
@@ -42,3 +40,4 @@ All mimsy were the borogoves,
 Jovi is the very coolest!!!
 Mfdkasljfdfkahsdfadkjf dhsfsjk alfdaf sadjklfh so cool!! 
 VEry !!! Cool !! Jovi!!!
+      -- Lewis Carroll
